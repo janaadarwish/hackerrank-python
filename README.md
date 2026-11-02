@@ -1,6 +1,10 @@
-# HackerRank Python Solutions
+# HackerRank Python
 
-Python solutions to HackerRank practice problems, written while building up my problem-solving skills and Python fundamentals.
+Python solutions to HackerRank practice problems, written to build up my problem-solving skills and Python fundamentals.
+
+## About
+
+This repository is a growing collection of my solutions to HackerRank challenges in Python. New solutions are added as I practice.
 
 ## Getting Started
 
@@ -12,30 +16,27 @@ git clone https://github.com/janaadarwish/hackerrank-python.git
 cd hackerrank-python
 
 # Run any solution
-python 01_Python_Division.py
+python <file_name>.py
 ```
 
 Most solutions read from standard input, as HackerRank does, so enter the sample input when prompted.
 
 ## Structure
 
-Files are numbered in the order I solved them and named after the problem:
+Each solution is a standalone `.py` file, numbered in the order I solved it and named after the problem:
 
 ```
 hackerrank-python/
-├── 01_Python_Division.py
-├── 02_Arithmetic_Operators.py
-├── 03_loops.py
-├── 04_Python_If_Else.py
-├── 05_print_function.py
-├── 06_write_function.py
+├── 01_Problem_Name.py
+├── 02_Problem_Name.py
+├── ...
 └── README.md
 ```
 
 ## Notes
 
-- These are my own solutions, meant as a practice log. Try the problems yourself first.
-- I'll keep adding solutions as I work through more of the Python track.
+- These are my own solutions, kept as a practice log.
+- Try the problems yourself before looking at the solutions.
 
 ## Author
 
